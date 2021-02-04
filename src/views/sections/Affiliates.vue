@@ -5,7 +5,7 @@
   >
     <v-container>
       <base-section-heading
-        title="Agradecidos con todos nuestros Clientes en estos 5 Años"
+        title="Agradecemos a todos nuestros clientes por su confianza en nuestros primeros 5 años de operacion, comprometiendonos como siempre en brindarles la mejor calidad en nuestros productos con los mejores precios competitivos y seguimos inovando para ofrecer el mejor servicio."
       />
 
       <!-- <v-slide-group>
