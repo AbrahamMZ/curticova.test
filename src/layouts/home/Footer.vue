@@ -18,7 +18,7 @@
               <a
                 :key="s"
                 class="white--text pa-1 pa-md-0"
-                href="#"
+                href="https://fb.me/curticova"
                 v-text="s"
               />
 
@@ -51,7 +51,7 @@
     name: 'HomeFooter',
 
     data: () => ({
-      social: ['Facebook', 'Twitter', 'Instagram', 'Linkedin'],
+      social: ['Facebook'],
     }),
   }
 </script>

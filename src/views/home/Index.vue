@@ -17,7 +17,7 @@
         'hero',
         // 'theme-features',
         'features',
-        // 'affiliates',
+        'affiliates',
         'social-media',
         'map',
         'info',

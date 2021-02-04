@@ -6,37 +6,37 @@
       space="56"
     >
       <base-icon class="mb-8">
-        mdi-twitter
+        mdi-facebook
       </base-icon>
 
       <base-section-heading
         color="transparent"
-        title="Social Media"
+        title="Redes Sociales"
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi aspernatur recusandae aut repudiandae illo error obcaecati dolores voluptate, tempore.
+        Visita nuestra Pagina
       </base-section-heading>
 
-      <a
+      <!-- <a
         class="d-inline-block mb-8"
-        href="https://vuetifyjs.com"
+        href="https://fb.me/curticova"
         style="text-decoration: none;"
         target="_blank"
       >
-        https://vuetifyjs.com
+        https://fb.me/curticova
       </a>
 
-      <div class="py-4" />
+      <div class="py-4" /> -->
 
       <v-btn
         class="font-weight-bold"
         color="white"
-        href="https://twitter.com/vuetifyjs"
+        href="https://fb.me/curticova"
         light
         min-width="168"
         target="_blank"
         x-large
       >
-        Follow Us
+        Siguenos
 
         <v-icon right>
           mdi-open-in-new

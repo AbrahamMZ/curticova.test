@@ -1,12 +1,14 @@
 <template>
   <base-section
     id="affiliates"
-    space="36"
+    space="16"
   >
     <v-container>
-      <base-section-heading title="Who's using Zero?" />
+      <base-section-heading
+        title="Agradecidos con todos nuestros Clientes en estos 5 Años"
+      />
 
-      <v-slide-group>
+      <!-- <v-slide-group>
         <template v-for="n in 6">
           <v-slide-item
             :key="n"
@@ -31,7 +33,7 @@
             <v-divider vertical />
           </v-responsive>
         </template>
-      </v-slide-group>
+      </v-slide-group> -->
     </v-container>
   </base-section>
 </template>
